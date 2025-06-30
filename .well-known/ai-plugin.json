@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Demo Plugin",
+  "name_for_model": "demo_plugin",
+  "description_for_human": "A simple plugin that responds with Hello!",
+  "description_for_model": "Plugin that provides a hello message",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://3b43-116-71-31-59.ngrok-free.app/openapi.yaml",
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://3b43-116-71-31-59.ngrok-free.app/logo.png",
+  "contact_email": "mabbasbangash97@email.com",
+  "legal_info_url": "https://3b43-116-71-31-59.ngrok-free.app/legal"
+}
