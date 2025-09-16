@@ -16,7 +16,7 @@ app.add_middleware(
 )
 @app.get("/oprotest", include_in_schema=False)
 async def get_openapi():
-    rreturn {"message": "Testing orange pro AI"}
+    rreturn {"message": "Testing orange pro AI as dasds das"}
 
 @app.get("/openapi.yaml", include_in_schema=False)
 async def get_openapi():
