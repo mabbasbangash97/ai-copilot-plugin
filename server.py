@@ -24,4 +24,4 @@ async def get_openapi():
 
 @app.get("/hello")
 def hello():
-    return {"message": "Hello from your Copilot plugin! OPRO v22 asdasdas as das casd as das ds"}
+    return {"message": "Hello from your Copilot plugin! OPRO v22 0913 -02jo12 3123 123 12312312 ease34"}
